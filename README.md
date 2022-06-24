@@ -7,7 +7,7 @@
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=aldeiacloud&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldeiacloud&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldeiacloud&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
