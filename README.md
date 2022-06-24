@@ -5,7 +5,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/railandermarques)
 
 <div> 
-  <a href="https://aldeiacloud.com.br target="_blank"><img src="https://img.shields.io/website?label=aldeiacloud.com.br&style=for-the-badge&url=https://aldeiacloud.com.br/" target="_blank"></a>
+  <a href="https://aldeiacloud.com.br" target="_blank"><img src="https://img.shields.io/website?label=aldeiacloud.com.br&style=for-the-badge&url=https://aldeiacloud.com.br" target="_blank"></a>
   <a href="https://www.youtube.com/aldeiacloud target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/aldeiacloud" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/railandermarques" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
