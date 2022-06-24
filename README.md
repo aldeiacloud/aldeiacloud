@@ -10,7 +10,7 @@
 </div>
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da núvem.
----
+##
 ### Alguns videos do Canal:
 - [VPN Pritunl - Docker Compose - Traefik | TLS 1.3 e 1.2 (Disable TLS 1.0 e 1.1)](https://www.youtube.com/watch?v=JTKHFjijb9Y)<br/>
 - [QUICK RESTORATION EBS ROOT - AWS EC2 | feat. Replace Root Volume Feature](https://www.youtube.com/watch?v=QRifddGHzEs)<br/>
