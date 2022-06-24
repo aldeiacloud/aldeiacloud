@@ -14,6 +14,8 @@
   <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldeiacloud&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<br>
+
 ##
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da núvem.
 ### Alguns vídeos do Canal:
