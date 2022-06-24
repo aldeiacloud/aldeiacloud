@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Railander Marques, criador do canal AldeiaCloud! 🖐️
 
-[![Blog](https://img.shields.io/website?label=aldeiacloud.com.br&style=for-the-badge&url=https://aldeiacloud.com.br/)](https://https://aldeiacloud.com.br)
+[![Blog](https://img.shields.io/website?label=aldeiacloud.com.br&style=for-the-badge&url=https://aldeiacloud.com.br/)](https://aldeiacloud.com.br)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/aldeiacloud)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aldeiacloud)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/railandermarques)
