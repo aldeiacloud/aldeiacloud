@@ -17,5 +17,3 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 - [Quick Restoration EBS Root - AWS EC2 | feat. Replace Root Volume Feature](https://www.youtube.com/watch?v=QRifddGHzEs)<br/>
 - [Como Exportar uma Máquina Virtual (.VMDK|.OVA) para AWS | feat. VirtualBox](https://www.youtube.com/watch?v=tozPf9qeenU)<br/>
 - [Habilitando ENA em Instâncias EC2 | feat. AWS CloudShell](https://www.youtube.com/watch?v=CK9_Ob4CnL8)<br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldeiacloud&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
